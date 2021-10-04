@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ninad Mayekar</h1>
 <h3 align="center">A passionate Software engineer from Mumbai, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awsmninad25&label=Profile%20views&color=0e75b6&style=flat" alt="awsmninad25" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AwsmNinad25&label=Profile%20views&color=0e75b6&style=flat" alt="AwsmNinad25" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mayekar_ninad" target="blank"><img src="https://img.shields.io/twitter/follow/mayekar_ninad?logo=twitter&style=for-the-badge" alt="mayekar_ninad" /></a> </p>
 
