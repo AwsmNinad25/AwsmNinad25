@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ninad Mayekar</h1>
+<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/72618584/136240367-bbd513b9-ca0a-4fba-985e-8aec33b26f2e.gif" width ="35" alt "#">
+, I'm Ninad Mayekar</h1>
 <h3 align="center">A passionate Software engineer from Mumbai, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AwsmNinad25&label=Profile%20views&color=0e75b6&style=flat" alt="AwsmNinad25" /> </p>
